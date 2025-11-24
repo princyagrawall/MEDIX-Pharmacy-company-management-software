@@ -1,7 +1,11 @@
-MEDIX PHARMACY MANAGEMENT SOFTWARE
-Driven by Quality, Measured by Trust
+--------------------------------------------------------------------------------------------
+
+                      *****MEDIX PHARMACY MANAGEMENT SOFTWARE*****
+                          Driven by Quality, Measured by Trust
 
 MEDIX is a C language-based application designed to manage a pharmacy company's daily operations efficiently. It provides features for managing medicines, raw materials, production, and billing in a simple and organized way.
+
+--------------------------------------------------------------------------------------------
 
 📝 FEATURES:
 
@@ -20,39 +24,54 @@ Persistent storage using .txt files (medicines.txt, rawmaterials.txt, bills.txt)
 User-Friendly Interface:
 Simple console interface with a clean banner and menu-driven system.
 
+--------------------------------------------------------------------------------------------
+
 📂 PROJECT STRUCTURE:
 
 MEDIX-Pharmacy-company-management-software/
-│
-├── src/                   # Source files (.c) containing program logic
-│   ├── main.c
-│   ├── inventory.c
-│   ├── billing.c
-│   ├── rawmaterials.c
-│   ├── production.c
-│   └── utils.c
-│
-├── include/               # Header files (.h) for function declarations and macros
-│   ├── billing.h
-│   ├── common.h
-│   ├── inventory.h
-│   ├── production.h
-│   ├── rawmaterials.h
-│   └── utils.h
-│
-├── docs/                  # Documentation files or project report (PDFs, guides)
-│
-├── assets/                # Images/screenshots used in project
-│   └── first_interface.jpg.png
-│
-├── bills.txt              # Saved billing records
-├── medicines.txt          # Inventory of medicines
-├── rawmaterials.txt       # Inventory of raw materials
-├── sample_input.txt       # Example input 
-└── README.md              # Project overview and instructions
+.
+├── assets
+│   ├── Add_medicine.png
+│   ├── Add_raw_materials.png
+│   ├── Bill_history.png
+│   ├── Create_production_batch.png
+│   ├── Exit.png
+│   ├── first_interface.png
+│   ├── Generating_bill.png
+│   ├── Production_report.png
+│   ├── search_medicine.png
+│   ├── View_medicine.png
+│   └── View_raw_materials.png
+├── bills.txt
+├── docs
+│   ├── :docs:ProjectReport.pdf
+│   └── project_report.txt
+├── include
+│   ├── billing.h
+│   ├── common.h
+│   ├── filemanager.h
+│   ├── inventory.h
+│   ├── production.h
+│   ├── rawmaterials.h
+│   └── utils.h
+├── medicines.txt
+├── medix
+├── rawmaterials.txt
+├── README.md
+├── sample_input.txt
+└── src
+    ├── billing.c
+    ├── filemanager.c
+    ├── inventory.c
+    ├── main.c
+    ├── production.c
+    ├── rawmaterials.c
+    └── utils.c
 
+--------------------------------------------------------------------------------------------
 
 💻 COMPILATION & EXECUTION:
+
 
 Clone the repository:
 
@@ -69,8 +88,7 @@ Run the program:
 
 ./medix
 
-
-Ensure all .txt files (medicines.txt, rawmaterials.txt, bills.txt) remain in the same directory as the executable for proper functionality.
+--------------------------------------------------------------------------------------------
 
 🧠 CONCEPTS DEMONSTRATED:
 
@@ -82,6 +100,8 @@ Structure and arrays for inventory and billing management
 
 Macros and constants for reusable code
 
+--------------------------------------------------------------------------------------------
+
 📄 AUTHOR
 
 Princy Agrawal
@@ -89,3 +109,5 @@ Princy Agrawal
 GitHub: princyagrawall
 
 Location: India
+
+--------------------------------------------------------------------------------------------
