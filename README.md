@@ -7,6 +7,33 @@ MEDIX is a C language-based application designed to manage a pharmacy company's 
 
 --------------------------------------------------------------------------------------------
 
+🔖 TABLE OF CONTENTS:
+
+-Project Overview
+-Features
+-Project structure
+-Compilation and evaluation
+-Usage
+-System requirements
+-Concepts Demonstrated
+-Future Improvements
+-Lisence
+-References
+-Author
+
+--------------------------------------------------------------------------------------------
+
+↹ PROJECT OVERVIEW:
+
+MEDIX allows the user to:
+Add, view, and manage medicines
+Track raw materials used in production
+Generate and store billing information
+Maintain records in plain text files for simplicity
+It is designed as a lightweight, console-based application with modular code for easy learning and expansion.
+
+--------------------------------------------------------------------------------------------
+
 📝 FEATURES:
 
 Inventory Management:
@@ -90,6 +117,18 @@ Run the program:
 
 --------------------------------------------------------------------------------------------
 
+𖧝 USAGE:
+
+Launch the program to see the main menu
+
+Follow on-screen instructions to add/view medicines, check raw materials, or generate bills
+
+Data will automatically be stored in the corresponding text files (medicines.txt, bills.txt, rawmaterials.txt)
+
+
+--------------------------------------------------------------------------------------------
+
+
 ☑️ SYSTEM REQUIREMENTS:
 
 - Operating System: macOS / Linux
@@ -110,12 +149,30 @@ Macros and constants for reusable code
 
 --------------------------------------------------------------------------------------------
 
+💯 FUTURE IMPROVEMENTS:
+
+Use a database instead of text files for better storage.
+Add expiry dates of medicines.
+Check user inputs to avoid mistakes.
+Add alerts for low stock or production needs.
+Make the system ready for more users or branches in the future.
+
+
+--------------------------------------------------------------------------------------------
+
 ⌛️ LICENSE:
 
 This project is open-source for educational purposes. You can use and modify it with credit.
 
 --------------------------------------------------------------------------------------------
 
+💁 REFERENCES
+
+YouTube Tutorials: Apna College, CodeWithHarry
+Class Notes / PPTs provided by the College Faculty
+Official C Programming Documentation and Examples
+
+--------------------------------------------------------------------------------------------
 
 📄 AUTHOR
 
