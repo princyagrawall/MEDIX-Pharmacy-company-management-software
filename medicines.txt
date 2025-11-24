@@ -1,0 +1,7 @@
+6501,Paracetamol,20,30.00
+9155,dolo-650,50,24.00
+5340,Seradon,45,30.00
+2513,Brufan,39,12.00
+3628,Preservatives,600,122.00
+4813,Ibuprofen,400,23.00
+12,Paracetamol,245,21.00
