@@ -1,0 +1,511 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 1
+------INVENTORY MENU------
+
+1. Add Medicine
+2. View Medicines
+3. Search Medicine
+Enter option: 1
+
+--- Add Medicine ---
+Enter Medicine ID: 102
+Enter medicine name: Multivitamins
+Enter quantity: 150
+Enter price: 20
+
+Medicine added successfully!
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 1
+------INVENTORY MENU------
+
+1. Add Medicine
+2. View Medicines
+3. Search Medicine
+Enter option: 2
+
+--- Medicine List ---
+
+-----------------------------------------------
+  ID       NAME                 QTY     PRICE
+-----------------------------------------------
+  6501    Paracetamol          20      30.00  
+  9155    dolo-650             50      24.00  
+  5340    Seradon              45      30.00  
+  2513    Brufan               39      12.00  
+  3628    Preservatives        600     122.00 
+  4813    Ibuprofen            400     23.00  
+  12      Paracetamol          245     21.00  
+  100     Aspirin              380     13.00  
+  101     Omeprazole           60      15.00  
+  102     Multivitamins        150     20.00  
+-----------------------------------------------
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 1
+
+------INVENTORY MENU------
+
+1. Add Medicine
+2. View Medicines
+3. Search Medicine
+Enter option: 3
+Enter Medicine ID: 102
+
+Medicine Found:
+---------------------------
+ID: 102
+Name: Multivitamins
+Qty: 150
+Price: 20.00
+---------------------------
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 2
+
+------BILLING MENU-------
+
+1. Generate Bill
+2. View Bill History
+Enter option: 1
+
+--- Generate Bill ---
+
+Enter Bill ID: 100
+Enter Medicine ID: 102
+Enter quantity: 23
+
+----------- BILL ------------
+Bill ID      : 100
+Medicine ID  : 102
+Quantity     : 23
+Total Amount : 460.00
+------------------------------
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 2
+
+------BILLING MENU-------
+
+1. Generate Bill
+2. View Bill History
+Enter option: 2
+
+--- Bill History ---
+
+----------------------------------------------
+ BILL ID   MED ID     QTY      TOTAL
+----------------------------------------------
+ 12       12         12       252.00
+ 12       12         12       252.00
+ 9155     9155       45       1080.00
+ 100      9155       45       1080.00
+ 100      102        23       460.00
+----------------------------------------------
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 3
+
+-------RAW MATERIALS MENU-------
+
+1. Add Raw Material
+2. View Raw Materials
+Enter option: 1
+
+--- Add Raw Material ---
+Enter ID: 1
+Enter material name: glycerin 
+Enter quantity(in kg): 40
+
+Raw material added successfully!
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 3
+
+-------RAW MATERIALS MENU-------
+
+1. Add Raw Material
+2. View Raw Materials
+Enter option: 2
+
+--- Raw Material List ---
+
+------------------------------------
+  ID       MATERIAL          QTY
+------------------------------------
+  9728    Excipients        255    
+  3636    Solvents          500    
+  9923    preservatives     600    
+  1176    Coloring_agents   1000   
+  7717    Binding_agents    700    
+  1       glycerin          40     
+------------------------------------
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 4
+
+-------PROUCTION MENU-------
+
+1. Produce Batch
+2. View Production Report
+Enter option: 1
+
+--- Create Production Batch ---
+Enter Medicine ID: 102 
+Enter batch quantity to produce: 56
+
+Using Raw Materials...
+
+Raw materials consumed: 56
+
+Production batch completed successfully!
+----------------------------------------------
+ Medicine ID     : 102
+ Quantity Added  : 56
+----------------------------------------------
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 4
+
+-------PROUCTION MENU-------
+
+1. Produce Batch
+2. View Production Report
+Enter option: 2
+
+=========== PRODUCTION REPORT ===========
+
+---- Medicines (Updated Stock) ----
+
+-----------------------------------------------
+  ID       NAME                 QTY     PRICE
+-----------------------------------------------
+  6501    Paracetamol          20      30.00  
+  9155    dolo-650             50      24.00  
+  5340    Seradon              45      30.00  
+  2513    Brufan               39      12.00  
+  3628    Preservatives        600     122.00 
+  4813    Ibuprofen            400     23.00  
+  12      Paracetamol          245     21.00  
+  100     Aspirin              380     13.00  
+  101     Omeprazole           60      15.00  
+  102     Multivitamins        206     20.00  
+-----------------------------------------------
+
+---- Raw Materials (Current Stock) ----
+
+------------------------------------
+  ID       MATERIAL          QTY
+------------------------------------
+  9728    Excipients        199    
+  3636    Solvents          500    
+  9923    preservatives     600    
+  1176    Coloring_agents   1000   
+  7717    Binding_agents    700    
+  1       glycerin          40     
+------------------------------------
+=========================================
+
+Press ENTER to continue...
+╔════════════════════════════════════════════════════════════════╗
+║                                 Driven by Quality,             ║
+║                                              Measured by Trust ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        ███╗   ███╗ ███████╗ ██████╗ ███╗ ███╗ ███╗             ║
+║        ████╗ ████║ ██╔════╝ ██╔══██╗ ██║ ╚██╗ ██╔╝             ║
+║        ██╔████╔██║ █████╗   ██║  ██║ ██║  ╚████╔╝              ║
+║        ██║╚██╔╝██║ ██╔══╝   ██║  ██║ ██║  ██╔██╗               ║
+║        ██║ ╚═╝ ██║ ███████╗ ██████╔╝ ███║ ██╔╝ ╚██╗            ║
+║        ╚═╝     ╚═╝ ╚══════╝ ╚═════╝  ╚═╝   ╚═╝   ╚═╝           ║
+║                                                                ║
+║             Curing the World, Caring Beyond                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+        Where biotechnology meets innovation,
+        Where safety meets reliability,
+        Where every breakthrough begins with care.
+
+=========================================
+        MEDIX PHARMA MANAGEMENT          
+=========================================
+1. Inventory
+2. Billing
+3. Raw Materials
+4. Production
+5. Exit
+-----------------------------------------
+Enter choice: 5
+
+Exiting... Goodbye!

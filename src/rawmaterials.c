@@ -43,7 +43,7 @@ void consumeRawMaterials(int qty) {
 
     while (fscanf(fp, "%d,%49[^,],%d\n", &r.id, r.name, &r.quantity) == 3) {
 
-        // simple logic: use from first raw material found
+        
         if (!used) {
             if (r.quantity >= qty) {
                 r.quantity -= qty;

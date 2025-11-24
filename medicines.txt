@@ -5,3 +5,6 @@
 3628,Preservatives,600,122.00
 4813,Ibuprofen,400,23.00
 12,Paracetamol,245,21.00
+100,Aspirin,380,13.00
+101,Omeprazole,60,15.00
+102,Multivitamins,206,20.00

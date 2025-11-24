@@ -1,5 +1,6 @@
-9728,Excipients,255
+9728,Excipients,199
 3636,Solvents,500
 9923,preservatives,600
 1176,Coloring_agents,1000
 7717,Binding_agents,700
+1,glycerin,40
