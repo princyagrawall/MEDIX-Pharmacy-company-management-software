@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------------------
 
-                      *****MEDIX PHARMACY MANAGEMENT SOFTWARE*****
-                          Driven by Quality, Measured by Trust
+                       *****MEDIX PHARMACY MANAGEMENT SOFTWARE*****
+                           Driven by Quality, Measured by Trust
 
 MEDIX is a C language-based application designed to manage a pharmacy company's daily operations efficiently. It provides features for managing medicines, raw materials, production, and billing in a simple and organized way.
 
@@ -90,6 +90,14 @@ Run the program:
 
 --------------------------------------------------------------------------------------------
 
+☑️ SYSTEM REQUIREMENTS:
+
+- Operating System: macOS / Linux
+
+- Compiler: GCC or c compiler
+
+--------------------------------------------------------------------------------------------
+
 🧠 CONCEPTS DEMONSTRATED:
 
 File operations (fopen, fwrite, fread, remove, rename)
@@ -101,6 +109,13 @@ Structure and arrays for inventory and billing management
 Macros and constants for reusable code
 
 --------------------------------------------------------------------------------------------
+
+⌛️ LICENSE:
+
+This project is open-source for educational purposes. You can use and modify it with credit.
+
+--------------------------------------------------------------------------------------------
+
 
 📄 AUTHOR
 
