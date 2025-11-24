@@ -8,3 +8,4 @@
 100,Aspirin,380,13.00
 101,Omeprazole,60,15.00
 102,Multivitamins,206,20.00
+105,vitaminD,34,37.00
