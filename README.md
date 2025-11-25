@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------
 
-                         #MEDIX PHARMACY MANAGEMENT SOFTWARE
+                         # MEDIX PHARMACY MANAGEMENT SOFTWARE
                            Driven by Quality, Measured by Trust
 
 MEDIX is a C language-based application designed to manage a pharmacy company's daily operations efficiently. It provides features for managing medicines, raw materials, production, and billing in a simple and organized way.
