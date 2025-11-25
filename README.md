@@ -1,13 +1,13 @@
 --------------------------------------------------------------------------------------------
 
-                       *****MEDIX PHARMACY MANAGEMENT SOFTWARE*****
+                         #MEDIX PHARMACY MANAGEMENT SOFTWARE
                            Driven by Quality, Measured by Trust
 
 MEDIX is a C language-based application designed to manage a pharmacy company's daily operations efficiently. It provides features for managing medicines, raw materials, production, and billing in a simple and organized way.
 
 --------------------------------------------------------------------------------------------
 
-🔖 TABLE OF CONTENTS:
+## 🔖 TABLE OF CONTENTS:
 
 -Project Overview
 -Features
@@ -23,7 +23,7 @@ MEDIX is a C language-based application designed to manage a pharmacy company's 
 
 --------------------------------------------------------------------------------------------
 
-↹ PROJECT OVERVIEW:
+## ↹ PROJECT OVERVIEW:
 
 MEDIX allows the user to:
 Add, view, and manage medicines
@@ -34,7 +34,7 @@ It is designed as a lightweight, console-based application with modular code for
 
 --------------------------------------------------------------------------------------------
 
-📝 FEATURES:
+## 📝 FEATURES:
 
 Inventory Management:
 Track medicines and raw materials, add or remove stock, and maintain a clear overview of available resources.
@@ -53,7 +53,7 @@ Simple console interface with a clean banner and menu-driven system.
 
 --------------------------------------------------------------------------------------------
 
-📂 PROJECT STRUCTURE:
+## 📂 PROJECT STRUCTURE:
 
 MEDIX-Pharmacy-company-management-software/
 .
@@ -97,7 +97,7 @@ MEDIX-Pharmacy-company-management-software/
 
 --------------------------------------------------------------------------------------------
 
-💻 COMPILATION & EXECUTION:
+## 💻 COMPILATION & EXECUTION:
 
 
 Clone the repository:
@@ -117,7 +117,7 @@ Run the program:
 
 --------------------------------------------------------------------------------------------
 
-𖧝 USAGE:
+## 𖧝 USAGE:
 
 Launch the program to see the main menu
 
@@ -129,7 +129,7 @@ Data will automatically be stored in the corresponding text files (medicines.txt
 --------------------------------------------------------------------------------------------
 
 
-☑️ SYSTEM REQUIREMENTS:
+## ☑️ SYSTEM REQUIREMENTS:
 
 - Operating System: macOS / Linux
 
@@ -137,7 +137,7 @@ Data will automatically be stored in the corresponding text files (medicines.txt
 
 --------------------------------------------------------------------------------------------
 
-🧠 CONCEPTS DEMONSTRATED:
+## 🧠 CONCEPTS DEMONSTRATED:
 
 File operations (fopen, fwrite, fread, remove, rename)
 
@@ -149,7 +149,7 @@ Macros and constants for reusable code
 
 --------------------------------------------------------------------------------------------
 
-💯 FUTURE IMPROVEMENTS:
+## 💯 FUTURE IMPROVEMENTS:
 
 Use a database instead of text files for better storage.
 Add expiry dates of medicines.
@@ -160,13 +160,13 @@ Make the system ready for more users or branches in the future.
 
 --------------------------------------------------------------------------------------------
 
-⌛️ LICENSE:
+## ⌛️ LICENSE:
 
 This project is open-source for educational purposes. You can use and modify it with credit.
 
 --------------------------------------------------------------------------------------------
 
-💁 REFERENCES
+## 💁 REFERENCES:
 
 YouTube Tutorials: Apna College, CodeWithHarry
 Class Notes / PPTs provided by the College Faculty
@@ -174,7 +174,7 @@ Official C Programming Documentation and Examples
 
 --------------------------------------------------------------------------------------------
 
-📄 AUTHOR
+## 📄 AUTHOR:
 
 Princy Agrawal
 

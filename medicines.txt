@@ -9,3 +9,4 @@
 101,Omeprazole,60,15.00
 102,Multivitamins,206,20.00
 105,vitaminD,34,37.00
+13,vitaminD,134,23.00
