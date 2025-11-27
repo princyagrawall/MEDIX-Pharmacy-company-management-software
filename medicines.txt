@@ -10,3 +10,4 @@
 102,Multivitamins,206,20.00
 105,vitaminD,34,37.00
 13,vitaminD,134,23.00
+89,vitaminE,78,23.00
