@@ -4,7 +4,7 @@
 
 // Clears the console screen
 void clearScreen() {
-    system("clear");   // Use "cls" instead of "clear" on Windows
+    system("clear");  
 }
 
 // Pauses the screen and waits for the user to press ENTER
